@@ -1,134 +1,147 @@
-<h1 align="center">✦sᥙmі sᥲkᥙrᥲsᥲᥕᥲ✦</h1>
+![line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
 
- <img src= "https://files.catbox.moe/km1exh.jpg">
-    </p>
+# Deja tu estrellita 🌟 
 
-### **`❕️ Información importante`**
+> *👑* **El mejor Bot de WhatsApp** *⚔️*
+
+<h1 align="center">Black - Clover</h1>
+<p align="center">
+  <img src="https://files.catbox.moe/0ro3o9.jpg" width="300">
+</p>
+
+<p align="center">
+  <a href="https://wa.me/525544876071">
+    <img title="Autor" src="https://img.shields.io/badge/CARLOS OFC-black?style=for-the-badge&logo=whatsapp">
+  </a>
+  <a href="https://instagram.com/_carlitos.zx">
+    <img title="Instagram del creador" src="https://img.shields.io/badge/@_carlitos.zx-purple?style=for-the-badge&logo=instagram">
+  </a>
+</p>
+
+![line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
+
+### ℹ️ Información importante
 
 <details>
- <summary><b> ➮ Info • Bot</b></summary>
+<summary><b>📘 ✞ Info Bot</b></summary>
 
-* Este proyecto **no está afiliado de ninguna manera** con `WhatsApp`, `Inc. WhatsApp` es una marca registrada de `WhatsApp LLC`, y este bot es un **desarrollo independiente** que **no tiene ninguna relación oficial con la compañía**.
+* Este proyecto **no está afiliado de ninguna manera** con `WhatsApp`. `WhatsApp` es una marca registrada de `WhatsApp LLC`, y este bot es un **desarrollo independiente** que **no tiene ninguna relación oficial con la compañía**.
 </details>
 
 <details>
- <summary><b> ➮ Funciones</b></summary>
+<summary><b>⚙️ ✞ Funciones</b></summary>
 
-> Bot en desarrollo si presenta alguna falla reportar al creador para darle una solución óptima.
+> El bot todavía está en desarrollo. Si presenta alguna falla, repórtala al creador para darle una solución.
 
 - [x] Interacción con voz y texto
 - [x] Configuración de grupo
-- [x] antidelete, antilink, antispam, etc
+- [x] Antidelete, antilink, antispam, etc.
 - [x] Bienvenida personalizada
-- [x] Juegos, tictactoe, mate, etc
-- [x] Chatbot (simsimi)
-- [x] Chatbot (autoresponder)
-- [x] Crear sticker de image/video/gif/url
+- [x] Juegos: tictactoe, matemáticas, etc.
+- [x] Chatbot (SimSimi)
+- [x] Chatbot (Auto-responder)
+- [x] Crear sticker de imagen/video/gif/URL
 - [x] SubBot (Jadibot)
 - [x] Buscador Google
 - [x] Juego RPG
 - [x] Personalizar imagen del menú
-- [x] Descarga de música y video De YT
-- [ ] Otros
+- [x] Descarga de música y video de YouTube
+- [ ] Otros en desarrollo
 
 </details>
 
----
 
-### **`✧ Click en la imagen para descargar termux ✧`**
-<a
-href="https://www.mediafire.com/file/llugt4zgj7g3n3u/com.termux_1020.apk/file"><img src="https://qu.ax/finc.jpg" height="125px"></a> 
+![line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
 
-### **`➮ Instalación por termux`**
+🌐 **¡PUEDES INSTALAR EL BOT EN ALGÚN [HOSTING](https://ctrl.luminarys.shop/)!**
+
+![line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
+
+### 📲 Click en la imagen para obtener Termux
+<a href="https://www.mediafire.com/file/3hsvi3xkpq3a64o/termux_118.a">
+  <img src="https://qu.ax/finc.jpg" height="125px">
+</a>
+
+![line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
+
+### 💻 Instalar por Termux
 
 <details>
- <summary><b> ✎ Click para ver los Comandos </b></summary>
+<summary><b>📲  Ver comandos para Termux</b></summary>
 
-### **❀ Instalación manual por termux**
-> Nota: Copie y pegue los comandos en termux uno por uno.
+## 🚀 Instalación Rápida
+
 ```bash
 termux-setup-storage
 ```
 
 ```bash
-apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
-```
+git clone https://github.com/thecarlos19/black-clover-MD 
 
+```
 ```bash
-git clone https://github.com/The-King-Destroy/Yuki_Suou-Bot && cd Yuki_Suou-Bot
+cd black-clover-MD 
 ```
-
-```bash
-yarn install
-```
-
 ```bash
 npm install
-```
-
-```bash
-npm update
 ```
 
 ```bash
 npm start
 ```
 
-> Si aparece (Y/I/N/O/D/Z) [default=N] ? use la letra "y" + "ENTER" para continuar con la instalación
-
-### **🜸 Activar en caso de detenerse en termux**
-
-> Si después de instalar el bot en Termux se detiene (pantalla en blanco, pérdida de conexión a Internet, reinicio del dispositivo), sigue estos pasos:
-
-❒ Abre Termux y navega al directorio del bot:
-   
-   ```bash
-    cd Yuki_Suou-Bot
-   ```
-
-❒ Inicia el bot nuevamente:
-  
-   ```bash
-    npm start
-   ```
-
-### **✰ Volverte owner del Bot**
-
-> Si después de instalar el bot en Termux y iniciar la session del bot (deseas poner tu número es la lista de owner pon este comando:
-
-   ```bash
-    cd Yuki_Suou-Bot && nano settings.js
-   ```
-
+⚠️ Si después de ingresar tu número de WhatsApp aparecen letras en rojo, es parte del proceso normal. No te preocupes.
 </details>
 
----
-### **`➮ Enlaces útiles`**
+![line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
+
+### ☁️ Instalar desde Cloud Shell
+
+<details>
+<summary><b>🌀  Ver comandos para Cloud Shell</b></summary>
+
+```bash
+apt update && apt upgrade
+```
+
+```bash
+git clone https://github.com/thecarlos19/black-clover-MD && cd black-clover-MD
+```
+
+```bash
+yarn install && npm install
+```
+
+```bash
+npm start
+```
+
+✅ ¡Bot listo para usarse! El mejor bot de WhatsApp 🥷
+</details>
+
+
+![line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
+
+
+![line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
+
+## 👤 Creador del proyecto
+
+<a href="https://github.com/miaoficial02">
+  <img src="https://github.com/miaoficial02.png" width="250" height="250" alt="Mia"/>
+</a>
+
+![line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
+
+### 🌐 Redes sociales del creador
+
 <p align="center">
-  <a href="mailto:itss.mia.oficial@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://instagram.com/its.mia.oficial" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%40its.mia.oficial-purple?style=for-the-badge&logo=instagram">
   </a>
-  <a href=""https://t.me/@Itssmiaoficial">
-    <img src="https://img.shields.io/badge/TELEGRAM-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-   <a href="https://whatsapp.com/channel/0029VbBOqfT5q08ULqdpok3Z">
-    <img src="https://img.shields.io/badge/WHATSAPP-1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="https://whatsapp.com/channel/0029Van1PcoFSAt50tWN4d0x">
-    <img src="https://img.shields.io/badge/WHATSAPP-2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
 
-<p align="center">
-  <a href="https://facebook.com/Mia Roslyakova">
-    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/its.mia.oficial">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+![line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
 
-### **`ᥫ᭡ Propietario`**
-<a
-href="https://github.com/miaoficial02"><img src="https://github.com/miaoficial02.png" width="130" height="130" alt="
-mі́ᥲ|᥆𝖿іᥴіᥲᥣ𒆜"/></a>
+🔋 *Powered by* [**THE LEGENDS** ⚡](https://whatsapp.com/channel/0029Vai28FR7dmea9gytQm3w)
