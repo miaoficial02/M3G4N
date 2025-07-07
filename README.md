@@ -6,7 +6,7 @@
 
 <h1 align="center">M3G4N</h1>
 <p align="center">
-  <img src="https://files.catbox.moe/0ro3o9.jpg" width="300">
+  <img src="https://files.catbox.moe/g77xv3.png" width="300">
 </p>
 
 <p align="center">
