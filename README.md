@@ -144,4 +144,4 @@ npm start
 
 ![line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
 
-🔋 *Powered by* [**𝐌𝐈𝐀** ⚡]
+🔋 *Powered by* **𝐌𝐈𝐀** 💋
