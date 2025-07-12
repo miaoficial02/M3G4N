@@ -144,4 +144,4 @@ npm start
 
 ![line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
 
-🔋 *Powered by* [**THE LEGENDS** ⚡](https://whatsapp.com/channel/0029Vai28FR7dmea9gytQm3w)
+🔋 *Powered by* [**𝐌𝐈𝐀** ⚡]
